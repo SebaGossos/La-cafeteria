@@ -1,0 +1,34 @@
+{
+  "name": "11-cafeteria",
+  "version": "1.0.0",
+  "description": "Sass Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebaGossos/La-cafeteria.git"
+  },
+  "author": "Sebastián Gossos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebaGossos/La-cafeteria/issues"
+  },
+  "homepage": "https://github.com/SebaGossos/La-cafeteria#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.1.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-webp": "^4.0.1",
+    "postcss": "^8.4.49",
+    "sass": "^1.81.0"
+  },
+  "browsersList": [
+    "last 1 version",
+    "> 1%"
+  ]
+}
